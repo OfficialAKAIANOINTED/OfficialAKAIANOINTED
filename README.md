@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anointed Ubongabasi Akai
 - 👀 I am Data Analysis and a project Manager.
 - 🤍 I am proficeint in Structured query Language, Excel, Power bi and Python for Data Analysis. 
-- 🌱 I studeied marine Engineering
+- 🌱 An Undergraduate of Marine Engineeering
 - 💞️ I’m looking to collaborate on Python for Data Analysis and other programming languages like SQL
 - 📫 You can reach me on my IG; akai_anointed and LINKEDIN: Akai Anointed
 - 😄 Pronouns: Akai Anointed
